@@ -1,0 +1,22 @@
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Distribuciones / metadata
+*.egg-info/
+*.dist-info/
+
+# Otros
+*.log
+.DS_Store
+*.pyc
